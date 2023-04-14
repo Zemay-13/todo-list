@@ -1,0 +1,38 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .input {
+    width: 45%;
+    height: 30px;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+ 
+
+/* .fields{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px ;
+}
+
+.description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    width: auto;
+    height: 50px;
+    resize: none;
+    overflow: hidden
+} */
+
+
