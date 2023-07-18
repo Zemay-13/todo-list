@@ -16,7 +16,7 @@ function TodoList({ todos, deleteTodo, toggleTodo }) {
           />
         ))
       ) : (
-        <h2 className={styles.message}>Todo list is empty</h2>
+        <h2 className={styles.message}>Todos is empty</h2>
       )}
     </div>
   );
