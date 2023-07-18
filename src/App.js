@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="appTitle">Todo App</h1>
+      <h1 className="appTitle">Todos</h1>
       <TodoForm onCreate={handleCreateTodo} />
       {todos.length > 0 && (
         <TodoActions
